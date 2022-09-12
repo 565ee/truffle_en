@@ -6,6 +6,8 @@
 # <span id='index1'>• Base 基础</span>  
 [11X ethereum truffle : Developing smart contracts](https://github.com/565ee/truffle_en/blob/main/doc/11X%20ethereum%20truffle%20:%20Developing%20smart%20contracts.md)          
 [11Z ethereum truffle : Deploying and interacting with smart contracts](https://github.com/565ee/truffle_en/edit/main/doc/11Z%20ethereum%20truffle%20:%20Deploying%20and%20interacting%20with%20smart%20contracts.md)          
+[121 ethereum truffle : Writing automated smart contract tests](https://github.com/565ee/truffle_en/edit/main/doc/121%20ethereum%20truffle%20:%20Writing%20automated%20smart%20contract%20tests.md)          
+
 
 # <span id='index2'>• Middle 中级</span>  
 
